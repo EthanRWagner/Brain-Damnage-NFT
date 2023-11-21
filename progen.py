@@ -168,12 +168,11 @@ def main() -> None:
        specific place to put the generated images.
     '''
     #Print title
-    print()
-    print()
-    print()
-    print()
-    print()
-    print()
+    f = Figlet(font='isometric2')
+    cprint("\n\n\n\n-----------------------------------------------", "yellow")
+    cprint(f.renderText("PRO"), "yellow")
+    cprint(f.renderText("GEN"), "yellow")
+    cprint("-----------------------------------------------\n", "yellow")
 
     #Ask how many images to generate
     side = int(input("\nWhat is the length of your image? (Has to be a multiple of 4): "))
