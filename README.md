@@ -1,5 +1,6 @@
 # Brain Damnage - ProGen NFT Generation Tool
 <img src="https://raw.githubusercontent.com/EthanRWagner/Brain-Damnage-NFT/main/imgs/samples/NFT_v1.bmp" width="300" height="300">
+
 ![image](https://github.com/EthanRWagner/Brain-Damnage-NFT/assets/65972041/f5458f9f-348f-44e8-b8cc-667d1ea607a6)
 
 This python executable can generate any specified number of BMP image given the program has the below available resources:
